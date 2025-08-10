@@ -1,7 +1,7 @@
 # Détectez des faux billets avec Python
 <h2>Description</h2>
 
-
+Développer une application de machine learning capable de prédire si un billet en euro est vrai ou faux à partir de mesures physiques (longueur, hauteur, largeur, etc.).
 <br />
 
 
